@@ -1,5 +1,5 @@
 
-# Encrypt BY £{•• `|`£©h
+# Encrypt by eloo
 # Github : https://github.com/Elootech/hack
 # facebook : eldj.moroccan
 # Time Encrypted File  : Thurs Jul 22 15:18:16 2021
