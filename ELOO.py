@@ -1,7 +1,7 @@
 
 # Encrypt BY £{•• `|`£©h
 # Github : https://github.com/Elootech/hack
-# 
+# facebook : eldj.moroccan
 # Time Encrypted File  : Thurs Jul 22 15:18:16 2021
 #It is not good for your personality that everything in you is great except for your mind
 # ----------------------------------------------------------------------------------------
